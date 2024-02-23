@@ -12,14 +12,14 @@ after downloading the zip file
 
 ## connections
 
-|     pins       |  components        |
-| -------------  | ------------------ |
-|     pin 2      | GND through 220ohm |
-|     pin 3      | GND through 220ohm |
-|     pin 4      | GND through 220ohm |
-|     pin 5      | GND through 220ohm |
-|     pin 6      | GND through 220ohm |
-|     pin 7      | GND through 220ohm |
-|     pin 8      | GND through 220ohm |
-|     pin 9      | GND through 220ohm |
+letter|     pins       |  components        |
+------| -------------  | ------------------ |
+d     |     pin 2      | GND through 220ohm |
+e     |     pin 3      | GND through 220ohm |
+f     |     pin 4      | GND through 220ohm |
+g     |     pin 5      | GND through 220ohm |
+a     |     pin 6      | GND through 220ohm |
+b     |     pin 7      | GND through 220ohm |
+db    |     pin 8      | GND through 220ohm |
+c     |     pin 9      | GND through 220ohm |
 
