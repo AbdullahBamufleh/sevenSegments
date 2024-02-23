@@ -1,4 +1,3 @@
-# sevenSegments
 This repository hold a library zip folder I made to help people using seven sigment board
 just by following my connections.
 
@@ -24,11 +23,15 @@ f     |     pin 4      | GND through 220ohm |
 g     |     pin 5      | GND through 220ohm | 
 a     |     pin 6      | GND through 220ohm |
 b     |     pin 7      | GND through 220ohm |
-db    |     pin 8      | GND through 220ohm |
+dp    |     pin 8      | GND through 220ohm |
 c     |     pin 9      | GND through 220ohm |
+ --   |     COM        |       GND          |
+      
 
-<p align="center">
-  <img src="IMG_8360.heic" width="400" />
-  <img src="Screenshot 1445-08-13 at 6.23.42 PM.png" width="400" /> 
-</p>
+<img width="220" alt="Screenshot 1445-08-13 at 6 23 42 PM" src="https://github.com/AbdullahBamufleh/sevenSegments/assets/148006077/a0c8df7f-0ce8-4fbc-9185-9ec8277ea501">
+
+<img width="220" alt="Screenshot 1445-08-13 at 9 14 42 PM" src="https://github.com/AbdullahBamufleh/sevenSegments/assets/148006077/dc91af31-0113-47f1-b759-adf2c6ba3280">
+
+
+
 
