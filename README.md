@@ -8,7 +8,11 @@ after downloading the zip file
 3. and select the zip folder you just download
 4. after that you can start the counter example
 5. File-->Examples-->sevenSegments-->counter
-
+### Main functions:
+```
+  clearSeg();
+  printSeg(intger from 0 to 10);
+```
    
 [![result](https://img.youtube.com/vi/DjkZud5mAdM/0.jpg)](https://www.youtube.com/watch?v=DjkZud5mAdM)
 
